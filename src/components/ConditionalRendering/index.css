@@ -1,0 +1,47 @@
+.bg-container {
+  background-color: #f5d0fe;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 400px;
+  height: 200px;
+}
+
+.heading-input {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #000000;
+}
+
+.container-input {
+  display: flex;
+  align-items: center;
+}
+
+.input-Element {
+  height: 40px;
+}
+
+.button-Text {
+  background-color: #d946ef;
+  border: none;
+  color: #ffffff;
+  margin-left: 6px;
+  height: 40px;
+  width: 60px;
+  border-radius: 5px;
+}
+
+.text-save {
+  color: #cbd2d9;
+  font-family: 'Roboto';
+}
